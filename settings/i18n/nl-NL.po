@@ -1,0 +1,29 @@
+msgid "color"
+msgstr "Kleur"
+
+msgid "visualization"
+msgstr "Visualisatie"
+
+msgid "batterylabel"
+msgstr "Batterij-indicator afbeelden"
+
+msgid "formats"
+msgstr "Indelingen"
+
+msgid "formatsLabel"
+msgstr "Zie hier voor de beschikbare notaties"
+
+msgid "formatsLink"
+msgstr "https://github.com/iamkun/dayjs/blob/dev/docs/en/API-reference.md#list-of-all-available-formats"
+
+msgid "imageLink"
+msgstr "https://via.placeholder.com/500"
+
+msgid "imageLabel"
+msgstr "Zie hier voor het toewijzen van de labels van de watchface"
+
+msgid "weekdayformat"
+msgstr "Indeling 1"
+
+msgid "dateformat"
+msgstr "Indeling 2"

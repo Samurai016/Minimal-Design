@@ -1,0 +1,29 @@
+msgid "color"
+msgstr "Color"
+
+msgid "visualization"
+msgstr "Visualization"
+
+msgid "batterylabel"
+msgstr "Show battery indicator"
+
+msgid "formats"
+msgstr "Formats"
+
+msgid "formatsLabel"
+msgstr "See here for date available formats"
+
+msgid "formatsLink"
+msgstr "https://github.com/iamkun/dayjs/blob/dev/docs/en/API-reference.md#list-of-all-available-formats"
+
+msgid "imageLink"
+msgstr "https://via.placeholder.com/500"
+
+msgid "imageLabel"
+msgstr "See here for watchface labels mapping"
+
+msgid "weekdayformat"
+msgstr "Format 1"
+
+msgid "dateformat"
+msgstr "Format 2"

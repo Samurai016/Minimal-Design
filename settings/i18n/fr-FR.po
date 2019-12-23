@@ -1,0 +1,29 @@
+msgid "color"
+msgstr "Couleur"
+
+msgid "visualization"
+msgstr "Visualisation"
+
+msgid "batterylabel"
+msgstr "Afficher l'indicateur de batterie"
+
+msgid "formats"
+msgstr "Formats"
+
+msgid "formatsLabel"
+msgstr "Voir ici pour les formats disponibles"
+
+msgid "formatsLink"
+msgstr "https://github.com/iamkun/dayjs/blob/dev/docs/en/API-reference.md#list-of-all-available-formats"
+
+msgid "imageLink"
+msgstr "https://via.placeholder.com/500"
+
+msgid "imageLabel"
+msgstr "Voir ici pour le mappage des libellés de guet"
+
+msgid "weekdayformat"
+msgstr "Format 1"
+
+msgid "dateformat"
+msgstr "Format 2"

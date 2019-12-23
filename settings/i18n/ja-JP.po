@@ -1,0 +1,29 @@
+msgid "color"
+msgstr "色"
+
+msgid "visualization"
+msgstr "視覚化"
+
+msgid "batterylabel"
+msgstr "バッテリー・インディケーターを表示"
+
+msgid "formats"
+msgstr "形式"
+
+msgid "formatsLabel"
+msgstr "使用可能なフォーマットについては、ここを参照"
+
+msgid "formatsLink"
+msgstr "https://github.com/iamkun/dayjs/blob/dev/docs/en/API-reference.md#list-of-all-available-formats"
+
+msgid "imageLink"
+msgstr "https://via.placeholder.com/500"
+
+msgid "imageLabel"
+msgstr "監視のラベル・マッピングについては、ここを"
+
+msgid "weekdayformat"
+msgstr "フォーマット 1"
+
+msgid "dateformat"
+msgstr "フォーマット 2"

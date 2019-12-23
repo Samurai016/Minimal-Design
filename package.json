@@ -1,0 +1,54 @@
+{
+  "fitbit": {
+    "appUUID": "0f2f12b5-482e-4882-a733-d6687a0f1413",
+    "appType": "clockface",
+    "appDisplayName": "Minimal Design",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Minimal Design"
+      },
+      "it": {
+        "name": "Minimal Design"
+      },
+      "es": {
+        "name": "Minimal Design"
+      },
+      "de": {
+        "name": "Minimal Design"
+      },
+      "fr": {
+        "name": "Minimal Design"
+      },
+      "ja": {
+        "name": "Minimal Design"
+      },
+      "nl": {
+        "name": "Minimal Design"
+      },
+      "ko": {
+        "name": "Minimal Design"
+      },
+      "sv": {
+        "name": "Minimal Design"
+      },
+      "zh-cn": {
+        "name": "Minimal Design"
+      },
+      "zh-tw": {
+        "name": "Minimal Design"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.0.0"
+  }
+}

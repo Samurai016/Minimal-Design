@@ -1,0 +1,29 @@
+msgid "color"
+msgstr "Färg"
+
+msgid "visualization"
+msgstr "Visualisering"
+
+msgid "batterylabel"
+msgstr "Visa batteriindikator"
+
+msgid "formats"
+msgstr "Format"
+
+msgid "formatsLabel"
+msgstr "Se här för datumtillgängliga format"
+
+msgid "formatsLink"
+msgstr "https://github.com/iamkun/dayjs/blob/dev/docs/en/API-reference.md#list-of-all-available-formats"
+
+msgid "imageLink"
+msgstr "https://via.placeholder.com/500"
+
+msgid "imageLabel"
+msgstr "Se etikettmappningen för bevakningsansiktet"
+
+msgid "weekdayformat"
+msgstr "Format 1"
+
+msgid "dateformat"
+msgstr "Format 2"

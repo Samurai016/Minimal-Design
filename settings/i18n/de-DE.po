@@ -1,0 +1,29 @@
+msgid "color"
+msgstr "Farbe"
+
+msgid "visualization"
+msgstr "Visualisierung"
+
+msgid "batterylabel"
+msgstr "Batterieladeanzeiger anzeigen"
+
+msgid "formats"
+msgstr "Formate"
+
+msgid "formatsLabel"
+msgstr "Weitere Informationen finden Sie hier."
+
+msgid "formatsLink"
+msgstr "https://github.com/iamkun/dayjs/blob/dev/docs/en/API-reference.md#list-of-all-available-formats"
+
+msgid "imageLink"
+msgstr "https://via.placeholder.com/500"
+
+msgid "imageLabel"
+msgstr "Informationen zur Zuordnung von Überwachungskennsätzen finden Sie hier."
+
+msgid "weekdayformat"
+msgstr "Format 1"
+
+msgid "dateformat"
+msgstr "Format 2"

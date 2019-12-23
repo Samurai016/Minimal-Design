@@ -1,0 +1,63 @@
+.background {
+  viewport-fill: black;
+}
+
+.light {
+  font-family: Colfax-Regular;
+}
+.bold {
+  font-family: Colfax-Medium;
+}
+.colored {
+  fill: #24FEC9;
+}
+
+text {
+  text-length: 32;  
+}
+
+#hours {
+  font-size: 120;
+  text-anchor: end;
+  x: 55%;/*37%-30;*/
+  y: 30%+80;
+  fill: white;
+}
+
+#minutes {
+  font-size: 90;
+  text-anchor: start;
+  x: 55%+5;/*67%+15;*/
+  y: 30%+80;
+}
+
+#weekday {
+  font-size: 27;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+65;
+}
+
+#date {
+  font-size: 25;
+  text-anchor: middle;
+  x: 50%;
+  y: 90%+15;
+  fill: black;
+}
+
+#battery {
+  font-size: 25;
+  text-anchor: middle;
+  x: 50%-8;
+  y: 10%;
+  fill: white;
+}
+
+#bolt {
+  opacity: 1;
+  width: 15;
+  height: 20;
+  x: 50%+12;
+  y: 10%-18;
+}

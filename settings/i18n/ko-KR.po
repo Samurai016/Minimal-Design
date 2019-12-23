@@ -1,0 +1,29 @@
+msgid "color"
+msgstr "컬러"
+
+msgid "visualization"
+msgstr "시각화"
+
+msgid "batterylabel"
+msgstr "배터리 표시기 표시"
+
+msgid "formats"
+msgstr "서식 파일"
+
+msgid "formatsLabel"
+msgstr "사용 가능한 날짜 형식은 여기를 참조하십시오."
+
+msgid "formatsLink"
+msgstr "https://github.com/iamkun/dayjs/blob/dev/docs/en/API-reference.md#list-of-all-available-formats"
+
+msgid "imageLink"
+msgstr "https://via.placeholder.com/500"
+
+msgid "imageLabel"
+msgstr "보면 레이블 맵핑을 보려면 여기를 참조하십시오."
+
+msgid "weekdayformat"
+msgstr "1형식 1"
+
+msgid "dateformat"
+msgstr "형식 2"

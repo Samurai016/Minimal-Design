@@ -1,0 +1,29 @@
+msgid "color"
+msgstr "颜色"
+
+msgid "visualization"
+msgstr "直观表示"
+
+msgid "batterylabel"
+msgstr "显示电池指示灯"
+
+msgid "formats"
+msgstr "格式化"
+
+msgid "formatsLabel"
+msgstr "请参阅此处以获取可用的日期格式"
+
+msgid "formatsLink"
+msgstr "https://github.com/iamkun/dayjs/blob/dev/docs/en/API-reference.md#list-of-all-available-formats"
+
+msgid "imageLink"
+msgstr "https://via.placeholder.com/500"
+
+msgid "imageLabel"
+msgstr "请参阅此处以获取观察面标签映射"
+
+msgid "weekdayformat"
+msgstr "格式 1"
+
+msgid "dateformat"
+msgstr "格式 2"
