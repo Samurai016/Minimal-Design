@@ -45,3 +45,6 @@ Minimale klok met ondersteuning voor:
 | `ZZ` | +0500 | De offset van UTC, 2 cijfers |
 | `A` | AM PM | |
 | `a` | am pm | |
+
+## Credits
+Gemaakt met :hart: door [Nicolò Rebaioli](https://www.rebaioli.altervista.org)

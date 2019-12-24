@@ -44,3 +44,6 @@
 | `ZZ` | +0500 |与UTC的偏移量，两位数|
 | `A` |上午PM | |
 | `a` |下午| |
+
+## 学分
+制作人 :heart: [Nicolò Rebaioli](https://www.rebaioli.altervista.org)

@@ -45,3 +45,6 @@
 | `ZZ` | +0500 | UTCからのオフセット、2桁|
 | `A` | AM PM | |
 | `a` |午前午後| |
+
+## クレジット
+Made with :heart：by [Nicolò Rebaioli](https://www.rebaioli.altervista.org)

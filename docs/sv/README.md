@@ -45,3 +45,6 @@ Minimal klocka med stöd för:
 | `ZZ` | +0500 | Offset från UTC, 2-siffror |
 | `A` | AM PM | |
 | `a` | am pm | |
+
+## Poäng
+Tillverkad med :hjärta: av [Nicolò Rebaioli](https://www.rebaioli.altervista.org)

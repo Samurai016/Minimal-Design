@@ -45,3 +45,6 @@ Orologio minimo con supporto per:
 | `ZZ` | +0500 | L'offset da UTC, a 2 cifre |
 | `A` | AM PM | |
 | `a` | pm | |
+
+## Crediti
+Realizzato con :heart: da [Nicolò Rebaioli](https://www.rebaioli.altervista.org)

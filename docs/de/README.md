@@ -45,3 +45,6 @@ Minimale Uhr mit Unterstützung für:
 | `ZZ` | +0500 | Der Versatz von UTC, zweistellig |
 | `A` | AM PM | |
 | `a` | am pm | |
+
+## Credits
+Hergestellt mit :heart: von [Nicolò Rebaioli](https://www.rebaioli.altervista.org)

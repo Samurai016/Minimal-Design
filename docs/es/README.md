@@ -45,3 +45,6 @@ Reloj mínimo con soporte para:
 | `ZZ` | +0500 | desplazamiento de UTC, 2 dígitos |
 | `A` | AM PM | |
 | `a` | am pm | |
+
+## Créditos
+Hecho con :heart: por [Nicolò Rebaioli](https://www.rebaioli.altervista.org)

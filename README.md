@@ -57,3 +57,6 @@ Minimal clock with support for:
 | `ZZ`   | +0500            | The offset from UTC, 2-digits         |
 | `A`    | AM PM            |                                       |
 | `a`    | am pm            |                                       |
+
+## Credits
+Made with :heart: by [Nicolò Rebaioli](https://www.rebaioli.altervista.org)

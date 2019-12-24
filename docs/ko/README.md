@@ -45,3 +45,6 @@
 | `ZZ` | +0500 | UTC에서 오프셋, 두 자리 |
 | `A` | 오전 PM | |
 | `a` | 오전 pm | |
+
+## 크레딧
+만든 사람 :heart: by [Nicolò Rebaioli](https://www.rebaioli.altervista.org)

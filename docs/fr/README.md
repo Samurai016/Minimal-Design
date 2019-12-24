@@ -45,3 +45,6 @@ Horloge minimale avec prise en charge de:
 | `ZZ` | +0500 | Le décalage par rapport à l'UTC, à 2 chiffres |
 | `A` | AM PM | |
 | `a` | am pm | |
+
+## Crédits
+Fabriqué avec :heart: par [Nicolò Rebaioli](https://www.rebaioli.altervista.org)
