@@ -11,16 +11,16 @@ Minimal clock with support for:
 - Battery percentage (optional)
 
 ## Translated documentation
-- [German](./docs/de/README.md)
-- [Spanish](./docs/es/README.md)
-- [French](./docs/fr/README.md)
-- [Italian](./docs/it/README.md)
-- [Japanese](./docs/ja/README.md)
-- [Korean](./docs/ko/README.md)
-- [Dutch](./docs/nl/README.md)
-- [Swedish](./docs/sv/README.md)
-- [Simplified Chinese](./docs/zh/README.md)
-- [Traditional Chinese](./docs/zh-TW/README.md)
+- [:de: German](./docs/de/README.md)
+- [:es: Spanish](./docs/es/README.md)
+- [:fr: French](./docs/fr/README.md)
+- [:it: Italian](./docs/it/README.md)
+- [:jp: Japanese](./docs/ja/README.md)
+- [:kr: Korean](./docs/ko/README.md)
+- [:netherlands: Dutch](./docs/nl/README.md)
+- [:sweden: Swedish](./docs/sv/README.md)
+- [:cn: Simplified Chinese](./docs/zh/README.md)
+- [:cn: Traditional Chinese](./docs/zh-TW/README.md)
 
 ## Label mapping
 
