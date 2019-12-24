@@ -14,10 +14,10 @@ msgid "formatsLabel"
 msgstr "请参阅此处以获取可用的日期格式"
 
 msgid "formatsLink"
-msgstr "https://github.com/iamkun/dayjs/blob/dev/docs/en/API-reference.md#list-of-all-available-formats"
+msgstr "https://github.com/Samurai016/Minimal-Design/tree/master/docs/zh"
 
 msgid "imageLink"
-msgstr "https://via.placeholder.com/500"
+msgstr "https://raw.githubusercontent.com/Samurai016/Minimal-Design/master/docs/zh/labels.png"
 
 msgid "imageLabel"
 msgstr "请参阅此处以获取观察面标签映射"

@@ -14,10 +14,10 @@ msgid "formatsLabel"
 msgstr "使用可能なフォーマットについては、ここを参照"
 
 msgid "formatsLink"
-msgstr "https://github.com/iamkun/dayjs/blob/dev/docs/en/API-reference.md#list-of-all-available-formats"
+msgstr "https://github.com/Samurai016/Minimal-Design/tree/master/docs/ja"
 
 msgid "imageLink"
-msgstr "https://via.placeholder.com/500"
+msgstr "https://raw.githubusercontent.com/Samurai016/Minimal-Design/master/docs/ja/labels.png"
 
 msgid "imageLabel"
 msgstr "監視のラベル・マッピングについては、ここを"

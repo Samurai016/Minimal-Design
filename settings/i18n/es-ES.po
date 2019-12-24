@@ -14,10 +14,10 @@ msgid "formatsLabel"
 msgstr "Consulte aquí para ver la fecha de los formatos disponibles"
 
 msgid "formatsLink"
-msgstr "https://github.com/iamkun/dayjs/blob/dev/docs/en/API-reference.md#list-of-all-available-formats"
+msgstr "https://github.com/Samurai016/Minimal-Design/tree/master/docs/es"
 
 msgid "imageLink"
-msgstr "https://via.placeholder.com/500"
+msgstr "https://raw.githubusercontent.com/Samurai016/Minimal-Design/master/docs/es/labels.png"
 
 msgid "imageLabel"
 msgstr "Consulte aquí para ver la correlación de etiquetas de observación"

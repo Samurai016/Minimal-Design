@@ -14,10 +14,10 @@ msgid "formatsLabel"
 msgstr "사용 가능한 날짜 형식은 여기를 참조하십시오."
 
 msgid "formatsLink"
-msgstr "https://github.com/iamkun/dayjs/blob/dev/docs/en/API-reference.md#list-of-all-available-formats"
+msgstr "https://github.com/Samurai016/Minimal-Design/tree/master/docs/ko"
 
 msgid "imageLink"
-msgstr "https://via.placeholder.com/500"
+msgstr "https://raw.githubusercontent.com/Samurai016/Minimal-Design/master/docs/ko/labels.png"
 
 msgid "imageLabel"
 msgstr "보면 레이블 맵핑을 보려면 여기를 참조하십시오."
