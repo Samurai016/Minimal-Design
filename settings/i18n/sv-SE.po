@@ -4,8 +4,17 @@ msgstr "Färg"
 msgid "visualization"
 msgstr "Visualisering"
 
-msgid "batterylabel"
-msgstr "Visa batteriindikator"
+msgid "displayelementflaglabel"
+msgstr "Visa element högst upp"
+
+msgid "displayelementlabel"
+msgstr "Element längst upp"
+
+msgid "heartrate"
+msgstr "Hjärtfrekvens"
+
+msgid "battery"
+msgstr "Batteri"
 
 msgid "formats"
 msgstr "Format"

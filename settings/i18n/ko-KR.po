@@ -4,8 +4,17 @@ msgstr "컬러"
 msgid "visualization"
 msgstr "시각화"
 
-msgid "batterylabel"
-msgstr "배터리 표시기 표시"
+msgid "displayelementflaglabel"
+msgstr "맨 위에 요소 표시"
+
+msgid "displayelementlabel"
+msgstr "상단의 요소"
+
+msgid "heartrate"
+msgstr "심박수"
+
+msgid "battery"
+msgstr "배터리"
 
 msgid "formats"
 msgstr "서식 파일"

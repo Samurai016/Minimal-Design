@@ -1,19 +1,21 @@
 # Minimal Design
 [![Fitbit gallery](https://img.shields.io/badge/Fitbit%20gallery-%2300B0B9?style=flat-square&logo=fitbit&logoColor=white)](https://gallery.fitbit.com/details/0f2f12b5-482e-4882-a733-d6687a0f1413)
+![Release version](https://img.shields.io/github/v/release/Samurai016/Minimal-Design?style=flat-square)
 
 **Fitbit Versa、Versa Lite、Versa 2でのみ利用可能**
 
 以下をサポートする最小クロック：
--24 / 12hフォーマット
--カスタム日付形式
--すべての言語がサポートされています
--3つの異なるカラー構成
--バッテリーの割合（オプション）
+- 24 / 12hフォーマット
+- カスタム日付形式
+- すべての言語がサポートされています
+- 3つの異なるカラー構成
+- バッテリーの割合（オプション）
+- 心拍数（オプション）
 
 ## ラベルマッピング
 
-- <span style = "color：red"> **フォーマット1** </span>
-- <span style = "color：yellow"> **フォーマット2** </span>
+- **フォーマット1 (赤)**
+- **フォーマット2 (黄)**
 
 ![ラベルマッピング](labels.png)
 

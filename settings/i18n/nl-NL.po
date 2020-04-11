@@ -4,8 +4,17 @@ msgstr "Kleur"
 msgid "visualization"
 msgstr "Visualisatie"
 
-msgid "batterylabel"
-msgstr "Batterij-indicator afbeelden"
+msgid "displayelementflaglabel"
+msgstr "Element bovenaan weergeven"
+
+msgid "displayelementlabel"
+msgstr "Element aan de bovenkant"
+
+msgid "heartrate"
+msgstr "Hartslag"
+
+msgid "battery"
+msgstr "Accu"
 
 msgid "formats"
 msgstr "Indelingen"

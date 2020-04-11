@@ -1,5 +1,6 @@
 # Minimal Design
 [![Fitbit gallery](https://img.shields.io/badge/Fitbit%20gallery-%2300B0B9?style=flat-square&logo=fitbit&logoColor=white)](https://gallery.fitbit.com/details/0f2f12b5-482e-4882-a733-d6687a0f1413)
+![Release version](https://img.shields.io/github/v/release/Samurai016/Minimal-Design?style=flat-square)
 
 **仅适用于Fitbit Versa，Versa Lite，Versa 2**
 
@@ -9,10 +10,12 @@
 - 支持所有语言
 - 3种不同的颜色配置
 - 电池电量百分比（可选）
+- 心率（可選）
 
 ## 标签映射
-- <span style="color:red"> **格式1** </span>
-- <span style="color:yellow"> **格式2** </span>
+
+- **格式1 (紅色)** 
+- **格式2 (黃色)** 
 
 ![标签映射](labels.png)
 

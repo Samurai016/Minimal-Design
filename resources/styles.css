@@ -46,18 +46,22 @@ text {
   fill: black;
 }
 
-#battery {
+.top-element-text {
   font-size: 25;
-  text-anchor: middle;
-  x: 50%-8;
+  text-anchor: end;
+  x: 50%+10;
   y: 10%;
   fill: white;
 }
 
-#bolt {
+.top-element-icon {
   opacity: 1;
   width: 15;
   height: 20;
   x: 50%+12;
   y: 10%-18;
+}
+#heartrate-icon {
+  width: 20;
+  x: 50%+15;
 }

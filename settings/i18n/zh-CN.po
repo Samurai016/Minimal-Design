@@ -2,10 +2,19 @@ msgid "color"
 msgstr "颜色"
 
 msgid "visualization"
-msgstr "直观表示"
+msgstr "可視化"
 
-msgid "batterylabel"
-msgstr "显示电池指示灯"
+msgid "displayelementflaglabel"
+msgstr "在頂部顯示元素"
+
+msgid "displayelementlabel"
+msgstr "顶部元素"
+
+msgid "heartrate"
+msgstr "心率"
+
+msgid "battery"
+msgstr "电池"
 
 msgid "formats"
 msgstr "格式化"

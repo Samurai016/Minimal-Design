@@ -1,5 +1,6 @@
 # Minimal Design
 [![Fitbit gallery](https://img.shields.io/badge/Fitbit%20gallery-%2300B0B9?style=flat-square&logo=fitbit&logoColor=white)](https://gallery.fitbit.com/details/0f2f12b5-482e-4882-a733-d6687a0f1413)
+![Release version](https://img.shields.io/github/v/release/Samurai016/Minimal-Design?style=flat-square)
 
 **Fitbit Versa, Versa Lite, Versa 2에서만 사용 가능**
 
@@ -9,11 +10,12 @@
 - 모든 언어 지원
 - 3 가지 색상 구성
 - 배터리 비율 (선택 사항)
+- 심박수 (선택 사항)
 
 ## 라벨 매핑
 
-- <span style = "color : red"> **형식 1** </span>
-- <span style = "color : yellow"> **형식 2** </span>
+- **형식 1 (빨간)**
+- **형식 2 (노랑)**
 
 ![라벨 매핑](labels.png)
 

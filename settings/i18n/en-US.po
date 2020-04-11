@@ -4,8 +4,17 @@ msgstr "Color"
 msgid "visualization"
 msgstr "Visualization"
 
-msgid "batterylabel"
-msgstr "Show battery indicator"
+msgid "displayelementflaglabel"
+msgstr "Show element at the top"
+
+msgid "displayelementlabel"
+msgstr "Element at the top"
+
+msgid "heartrate"
+msgstr "Heart rate"
+
+msgid "battery"
+msgstr "Battery"
 
 msgid "formats"
 msgstr "Formats"

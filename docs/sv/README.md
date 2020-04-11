@@ -1,5 +1,6 @@
 # Minimal Design
 [![Fitbit gallery](https://img.shields.io/badge/Fitbit%20gallery-%2300B0B9?style=flat-square&logo=fitbit&logoColor=white)](https://gallery.fitbit.com/details/0f2f12b5-482e-4882-a733-d6687a0f1413)
+![Release version](https://img.shields.io/github/v/release/Samurai016/Minimal-Design?style=flat-square)
 
 **Finns endast för Fitbit Versa, Versa Lite, Versa 2**
 
@@ -9,11 +10,12 @@ Minimal klocka med stöd för:
 - Alla språk stöds
 - 3 olika färgkonfigurationer
 - Batteriprocent (valfritt)
+- Hjärtfrekvens (valfritt)
 
 ## Etikettkartläggning
 
-- <span style = "color: red"> **Format 1** </span>
-- <span style = "color: yellow"> **Format 2** </span>
+- **Format 1 (röd)**
+- **Format 2 (gul)**
 
 ![Etikettkartläggning](labels.png)
 

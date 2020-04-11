@@ -1,5 +1,6 @@
 # Minimal Design
 [![Fitbit gallery](https://img.shields.io/badge/Fitbit%20gallery-%2300B0B9?style=flat-square&logo=fitbit&logoColor=white)](https://gallery.fitbit.com/details/0f2f12b5-482e-4882-a733-d6687a0f1413)
+![Release version](https://img.shields.io/github/v/release/Samurai016/Minimal-Design?style=flat-square)
 
 **Disponible solo para Fitbit Versa, Versa Lite, Versa 2**
 
@@ -9,11 +10,12 @@ Reloj mínimo con soporte para:
 - Todos los idiomas soportados
 - 3 configuraciones de color diferentes
 - Porcentaje de batería (opcional)
+- Frecuencia cardíaca (opcional)
 
 ## Mapeo de etiquetas
 
-- <span style = "color: red"> **Formato 1** </span>
-- <span style = "color: yellow"> **Formato 2** </span>
+- **Formato 1 (rojo)**
+- **Formato 2 (amarillo)**
 
 ![Mapeo de etiquetas](labels.png)
 

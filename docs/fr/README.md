@@ -1,5 +1,6 @@
 # Minimal Design
 [![Fitbit gallery](https://img.shields.io/badge/Fitbit%20gallery-%2300B0B9?style=flat-square&logo=fitbit&logoColor=white)](https://gallery.fitbit.com/details/0f2f12b5-482e-4882-a733-d6687a0f1413)
+![Release version](https://img.shields.io/github/v/release/Samurai016/Minimal-Design?style=flat-square)
 
 **Disponible uniquement pour Fitbit Versa, Versa Lite, Versa 2**
 
@@ -8,12 +9,13 @@ Horloge minimale avec prise en charge de:
 - Formats de date personnalisés
 - Toutes les langues prises en charge
 - 3 configurations de couleurs différentes
-- Pourcentage de la batterie (en option)
+- Pourcentage de la batterie (facultatif)
+- Fréquence cardiaque (facultatif)
 
 ## Mappage d'étiquettes
 
-- <span style = "color: red"> **Format 1** </span>
-- <span style = "color: yellow"> **Format 2** </span>
+- **Format 1 (rouge)**
+- **Format 2 (jaune)**
 
 ![Mappage d'étiquettes](labels.png)
 

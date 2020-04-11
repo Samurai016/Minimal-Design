@@ -5,7 +5,10 @@
     "appDisplayName": "Minimal Design",
     "iconFile": "resources/icon.png",
     "wipeColor": "",
-    "requestedPermissions": [],
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity"
+    ],
     "buildTargets": [
       "meson",
       "gemini",
@@ -49,6 +52,6 @@
     "defaultLanguage": "en-US"
   },
   "devDependencies": {
-    "@fitbit/sdk": "~4.0.0"
+    "@fitbit/sdk": "~4.1.0"
   }
 }

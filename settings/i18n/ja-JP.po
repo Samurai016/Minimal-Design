@@ -4,8 +4,17 @@ msgstr "色"
 msgid "visualization"
 msgstr "視覚化"
 
-msgid "batterylabel"
-msgstr "バッテリー・インディケーターを表示"
+msgid "displayelementflaglabel"
+msgstr "エレメントを上部に表示します"
+
+msgid "displayelementlabel"
+msgstr "上部の要素"
+
+msgid "heartrate"
+msgstr "心拍数"
+
+msgid "battery"
+msgstr "電池"
 
 msgid "formats"
 msgstr "形式"

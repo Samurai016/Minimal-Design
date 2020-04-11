@@ -1,40 +1,63 @@
-import { settingsStorage } from "settings";
 import * as messaging from "messaging";
-import { me } from "companion";
+import { settingsStorage } from "settings";
+import { DEFAULT_MODEL, 
+         KEY_DISPLAY_ELEMENT,
+         KEY_WEEKDAY_FORMAT,
+         KEY_DATE_FORMAT } from "../common/constants";
 
-let KEY_COLOR = "uiColor";
+// Message socket opens
+messaging.peerSocket.onopen = () => {
+  restoreSettings();
+};
 
-// Settings have been changed
-settingsStorage.onchange = function(evt) {
-  sendValue(evt.key, evt.newValue);
-}
+// Message socket closes
+messaging.peerSocket.onclose = () => {
+  //
+};
 
-if (!settingsStorage.getItem("showbattery")) {
- settingsStorage.setItem("showbattery", true); 
-}
-if (!settingsStorage.getItem("color")) {
- settingsStorage.setItem("color", "#24FEC9"); 
-}
-if (!settingsStorage.getItem("weekdayformat")) {
- settingsStorage.setItem("weekdayformat", "dddd"); 
-}
-if (!settingsStorage.getItem("dateformat")) {
- settingsStorage.setItem("dateformat", "DD MMMM"); 
-}
+// A user changes settings
+settingsStorage.onchange = evt => {
+  let data = {
+    key: evt.key,
+    newValue: evt.newValue
+  };
+  sendVal(data);
+};
 
-function sendValue(key, val) {
-  if (val) {
-    sendSettingData({
-      key: key,
-      value: JSON.parse(val)
-    });
+// Restore any previously saved settings and send to the device
+function restoreSettings() {
+  for (let index = 0; index < settingsStorage.length; index++) {
+    let key = settingsStorage.key(index);
+    if (key) {
+      let data = {
+        key: key,
+        newValue: settingsStorage.getItem(key)
+      };
+      sendVal(data);
+    }
   }
+  Object.keys(DEFAULT_MODEL).forEach(function(key) {
+    if (!settingsStorage.getItem(key)) {
+     settingsStorage.setItem(key, formatDefaultValue(key)); 
+    }
+  });  
 }
-function sendSettingData(data) {
-  // If we have a MessageSocket, send the data to the device
+
+// Send data to device using Messaging API
+function sendVal(data) {
   if (messaging.peerSocket.readyState === messaging.peerSocket.OPEN) {
     messaging.peerSocket.send(data);
-  } else {
-    console.log("No peerSocket connection");
+  }
+}
+
+function formatDefaultValue(key) {
+  switch (key) {
+    case KEY_DISPLAY_ELEMENT:
+      return JSON.stringify({"values":{"value":DEFAULT_MODEL[key]},"selected":[0]});
+    case KEY_WEEKDAY_FORMAT: 
+    case KEY_DATE_FORMAT: 
+      return JSON.stringify({"name":DEFAULT_MODEL[key]});
+    default:
+      return DEFAULT_MODEL[key];
   }
 }

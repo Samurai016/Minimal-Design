@@ -1,5 +1,6 @@
 # Minimal Design
 [![Fitbit gallery](https://img.shields.io/badge/Fitbit%20gallery-%2300B0B9?style=flat-square&logo=fitbit&logoColor=white)](https://gallery.fitbit.com/details/0f2f12b5-482e-4882-a733-d6687a0f1413)
+![Release version](https://img.shields.io/github/v/release/Samurai016/Minimal-Design?style=flat-square)
 
 **Available only for Fitbit Versa, Versa Lite, Versa 2**
 
@@ -9,6 +10,7 @@ Minimal clock with support for:
 - All languages supported
 - 3 different color configurations
 - Battery percentage (optional)
+- Heart rate (optional)
 
 ## Translated documentation
 - [:de: German](./docs/de/README.md)
@@ -24,8 +26,8 @@ Minimal clock with support for:
 
 ## Label mapping
 
-- <span style="color:red">**Format 1**</span>
-- <span style="color:yellow">**Format 2**</span>
+- **Format 1 (red)**
+- **Format 2 (yellow)**
 
 ![Label mapping](labels.png)
 
