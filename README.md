@@ -60,5 +60,10 @@ Minimal clock with support for:
 | `A`    | AM PM            |                                       |
 | `a`    | am pm            |                                       |
 
+## Other versions
+* [laggelos](https://github.com/laggelos/Minimal-Design/tree/minimal_design_edited)  
+    * New colors
+    * Show battery and heartrate at the same time 
+
 ## Credits
 Made with :heart: by [Nicolò Rebaioli](https://www.rebaioli.altervista.org)
