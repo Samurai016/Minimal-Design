@@ -7,10 +7,9 @@
 Minimal clock with support for:
 - 24/12h formats
 - Custom date formats
-- All languages supported
-- 3 different color configurations
-- Battery percentage (optional)
-- Heart rate (optional)
+- Many languages supported
+- 8 different color configurations
+- Battery percentage and Heart rate (optional)
 
 ## Translated documentation
 - [:de: German](./docs/de/README.md)
