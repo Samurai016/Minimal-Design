@@ -32,7 +32,7 @@ msgid "imageLabel"
 msgstr "See here for watchface labels mapping"
 
 msgid "weekdayformat"
-msgstr "Format 1"
+msgstr "Weekday"
 
 msgid "dateformat"
-msgstr "Format 2"
+msgstr "Date"

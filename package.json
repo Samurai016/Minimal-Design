@@ -2,7 +2,7 @@
   "fitbit": {
     "appUUID": "0f2f12b5-482e-4882-a733-d6687a0f1413",
     "appType": "clockface",
-    "appDisplayName": "Minimal Design",
+    "appDisplayName": "Minimal Power & Heart Rate",
     "iconFile": "resources/icon.png",
     "wipeColor": "",
     "requestedPermissions": [
@@ -16,37 +16,37 @@
     ],
     "i18n": {
       "en": {
-        "name": "Minimal Design"
+        "name": "Minimal Power & Heart Rate"
       },
       "it": {
-        "name": "Minimal Design"
+        "name": "Minimal Power & Heart Rate"
       },
       "es": {
-        "name": "Minimal Design"
+        "name": "Minimal Power & Heart Rate"
       },
       "de": {
-        "name": "Minimal Design"
+        "name": "Minimal Power & Heart Rate"
       },
       "fr": {
-        "name": "Minimal Design"
+        "name": "Minimal Power & Heart Rate"
       },
       "ja": {
-        "name": "Minimal Design"
+        "name": "Minimal Power & Heart Rate"
       },
       "nl": {
-        "name": "Minimal Design"
+        "name": "Minimal Power & Heart Rate"
       },
       "ko": {
-        "name": "Minimal Design"
+        "name": "Minimal Power & Heart Rate"
       },
       "sv": {
-        "name": "Minimal Design"
+        "name": "Minimal Power & Heart Rate"
       },
       "zh-cn": {
-        "name": "Minimal Design"
+        "name": "Minimal Power & Heart Rate"
       },
       "zh-tw": {
-        "name": "Minimal Design"
+        "name": "Minimal Power & Heart Rate"
       }
     },
     "defaultLanguage": "en-US"

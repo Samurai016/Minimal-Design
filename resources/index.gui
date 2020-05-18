@@ -1,9 +1,9 @@
 <svg class="background">
   <!-- <line x1="50%" y1="0" x2="50%" y2="100%" fill="white"/> -->
-  <text id="battery" class="top-element-text light" />
-  <image id="battery-icon" href="./resources/assets/bolt.png" class="top-element-icon colored" />
-  <text id="heartrate" class="top-element-text light" />
-  <image id="heartrate-icon" href="./resources/assets/heart.png" class="top-element-icon colored" />
+  <text id="battery" class="battery-element-text light" />
+  <image id="battery-icon" href="./resources/assets/bolt.png" class="battery-element-icon colored" />
+  <text id="heartrate" class="heartrate-element-text light" />
+  <image id="heartrate-icon" href="./resources/assets/heart.png" class="heartrate-element-icon colored" />
   
   <text id="hours" class="bold" />
   <text id="minutes" class="light colored" />

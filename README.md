@@ -24,13 +24,6 @@ Minimal clock with support for:
 - [:cn: Simplified Chinese](./docs/zh/README.md)
 - [:cn: Traditional Chinese](./docs/zh-TW/README.md)
 
-## Label mapping
-
-- **Format 1 (red)**
-- **Format 2 (yellow)**
-
-![Label mapping](labels.png)
-
 ## List of all available date formats
 | Format | Output           | Description                           |
 | ------ | ---------------- | ------------------------------------- |
@@ -61,4 +54,4 @@ Minimal clock with support for:
 | `a`    | am pm            |                                       |
 
 ## Credits
-Made with :heart: by [Nicolò Rebaioli](https://www.rebaioli.altervista.org)
+Made with :heart: by [Nicolò Rebaioli](https://www.rebaioli.altervista.org) who inspired my to edit this clock face.

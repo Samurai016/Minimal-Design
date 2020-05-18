@@ -1,8 +1,5 @@
 import { gettext } from "i18n";
-import {  DISPLAY_ELEMENTS,
-          KEY_COLOR,
-          KEY_DISPLAY_ELEMENT,
-          KEY_DISPLAY_ELEMENT_FLAG,
+import {  KEY_COLOR,
           KEY_WEEKDAY_FORMAT,
           KEY_DATE_FORMAT } from "../common/constants";
 
@@ -14,22 +11,15 @@ function Settings(props) {
         <ColorSelect
           settingsKey={KEY_COLOR}
           colors={[
-            {color: '#24FEC9'},
-            {color: '#FFCC00'},
-            {color: '#FE2551'},
+            {color: '#607D8B'},
+            {color: '#FFC107'},
+            {color: '#795548'},
+            {color: '#7CB342'},
+            {color: '#F06292'},
+            {color: '#673AB7'},
+            {color: '#EF5350'},
+            {color: '#E0E0E0'},
           ]}
-        />
-      </Section>
-      <Section
-        title={<Text bold align="center">{ gettext("visualization") }</Text>}>
-        <Toggle
-          settingsKey={KEY_DISPLAY_ELEMENT_FLAG}
-          label={ gettext("displayelementflaglabel") }
-        />
-        <Select
-          label={ gettext("displayelementlabel") }
-          settingsKey={KEY_DISPLAY_ELEMENT}
-          options={DISPLAY_ELEMENTS.map(name => ({ name: gettext(name), value: name }))}
         />
       </Section>
       <Section

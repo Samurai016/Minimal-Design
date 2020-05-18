@@ -8,11 +8,12 @@ export const DISPLAY_ELEMENT_BATTERY = "battery";
 export const DISPLAY_ELEMENT_HEART = "heartrate";
 
 export const DEFAULT_MODEL = {
-  [KEY_COLOR]: "#24FEC9",
+  [KEY_COLOR]: "#607D8B",
   [KEY_DISPLAY_ELEMENT]: DISPLAY_ELEMENT_BATTERY,
+  [KEY_DISPLAY_ELEMENT]: DISPLAY_ELEMENT_HEART,
   [KEY_DISPLAY_ELEMENT_FLAG]: true,
   [KEY_WEEKDAY_FORMAT]: "dddd",
-  [KEY_DATE_FORMAT]: "DD MMMM",
+  [KEY_DATE_FORMAT]: "DD MMM",
 };
 
 // Note: don't reorder these as settings are saved based on array index.

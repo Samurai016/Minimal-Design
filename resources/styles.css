@@ -9,7 +9,7 @@
   font-family: Colfax-Medium;
 }
 .colored {
-  fill: #24FEC9;
+  fill: #607D8B;
 }
 
 text {
@@ -21,13 +21,13 @@ text {
   text-anchor: end;
   x: 55%;/*37%-30;*/
   y: 30%+80;
-  fill: white;
+  fill: #E0E0E0;
 }
 
 #minutes {
   font-size: 90;
   text-anchor: start;
-  x: 55%+5;/*67%+15;*/
+  x: 54%+3;/*67%+15;*/
   y: 30%+80;
 }
 
@@ -46,22 +46,34 @@ text {
   fill: black;
 }
 
-.top-element-text {
+.heartrate-element-text {
   font-size: 25;
   text-anchor: end;
-  x: 50%+10;
+  x: 39%+10;
   y: 10%;
-  fill: white;
+  fill: #E0E0E0;
 }
 
-.top-element-icon {
+.battery-element-text {
+  font-size: 25;
+  text-anchor: end;
+  x: 64%+10;
+  y: 10%;
+  fill: #E0E0E0;
+}
+
+.heartrate-element-icon {
   opacity: 1;
   width: 15;
   height: 20;
-  x: 50%+12;
+  x: 40%+12;
   y: 10%-18;
 }
-#heartrate-icon {
-  width: 20;
-  x: 50%+15;
+
+.battery-element-icon {
+  opacity: 1;
+  width: 15;
+  height: 20;
+  x: 64%+12;
+  y: 10%-18;
 }
